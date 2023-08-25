@@ -10,6 +10,7 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
+using System.Windows.Markup;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
@@ -145,8 +146,9 @@ namespace Na
         //tìm từ combox
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
+
             /**
-             * if (dgvSanPham.SelectedItem != null)
+              if (dgvSanPham.SelectedItem != null)
             {
                 try
                 {
@@ -166,6 +168,17 @@ namespace Na
 
             }
              */
+             string maSP = txtMaSP.Text;
+                if (maSP != null)
+                {
+                    var sp = db.SanPhams.Where(p => p.MaSp == maSP).Select(p => new { p.MaSp, p.TenSp, p.MaLoai, p.SoLuong, p.DonGia, ThanhTien =p.SoLuong*p.DonGia});
+                    dgvSanPham.ItemsSource = sp.ToList();
+                }
+                else
+                {
+                    MessageBox.Show("Không có sản phẩm cần tìm", "Thong bao");
+                    hienthi();
+                }
             
 
         }
