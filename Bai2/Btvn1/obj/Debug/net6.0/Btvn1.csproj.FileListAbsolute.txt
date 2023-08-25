@@ -1,0 +1,15 @@
+D:\HAUI\CSharp\Bai2\Btvn1\bin\Debug\net6.0\Btvn1.exe
+D:\HAUI\CSharp\Bai2\Btvn1\bin\Debug\net6.0\Btvn1.deps.json
+D:\HAUI\CSharp\Bai2\Btvn1\bin\Debug\net6.0\Btvn1.runtimeconfig.json
+D:\HAUI\CSharp\Bai2\Btvn1\bin\Debug\net6.0\Btvn1.dll
+D:\HAUI\CSharp\Bai2\Btvn1\bin\Debug\net6.0\Btvn1.pdb
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.csproj.AssemblyReference.cache
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.AssemblyInfoInputs.cache
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.AssemblyInfo.cs
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.csproj.CoreCompileInputs.cache
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.dll
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\refint\Btvn1.dll
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.pdb
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\Btvn1.genruntimeconfig.cache
+D:\HAUI\CSharp\Bai2\Btvn1\obj\Debug\net6.0\ref\Btvn1.dll

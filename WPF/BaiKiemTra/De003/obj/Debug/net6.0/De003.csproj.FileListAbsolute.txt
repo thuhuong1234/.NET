@@ -1,0 +1,15 @@
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\bin\Debug\net6.0\De003.exe
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\bin\Debug\net6.0\De003.deps.json
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\bin\Debug\net6.0\De003.runtimeconfig.json
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\bin\Debug\net6.0\De003.dll
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\bin\Debug\net6.0\De003.pdb
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.csproj.AssemblyReference.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.AssemblyInfoInputs.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.AssemblyInfo.cs
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.csproj.CoreCompileInputs.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.dll
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\refint\De003.dll
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.pdb
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\De003.genruntimeconfig.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\De003\obj\Debug\net6.0\ref\De003.dll

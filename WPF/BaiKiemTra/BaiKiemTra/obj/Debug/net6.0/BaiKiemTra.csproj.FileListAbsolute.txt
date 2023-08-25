@@ -1,0 +1,15 @@
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.exe
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.deps.json
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.runtimeconfig.json
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.dll
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.pdb
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.csproj.AssemblyReference.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.AssemblyInfoInputs.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.AssemblyInfo.cs
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.csproj.CoreCompileInputs.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.dll
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\refint\BaiKiemTra.dll
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.pdb
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.genruntimeconfig.cache
+D:\HAUI\CSharp\WPF\BaiKiemTra\BaiKiemTra\obj\Debug\net6.0\ref\BaiKiemTra.dll
