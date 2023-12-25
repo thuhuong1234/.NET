@@ -1,0 +1,10 @@
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\bin\Debug\OnTapB6.exe.config
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\bin\Debug\OnTapB6.exe
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\bin\Debug\OnTapB6.pdb
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.csproj.AssemblyReference.cache
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.Properties.Resources.resources
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.csproj.GenerateResource.cache
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.csproj.CoreCompileInputs.cache
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.exe
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.pdb
+D:\HAUI\TichHop\KTHP\OnTapB6\OnTapB6\obj\Debug\OnTapB6.Form1.resources
